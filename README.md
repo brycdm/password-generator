@@ -9,3 +9,15 @@ To use this script, you'll need Python 3 installed on your computer. You can dow
 ## Usage
 
 Run the `password_generator.py` script from the command line, and follow the prompts to specify the minimum length of the password and whether to include numbers and special characters.
+
+## Learnings
+
+Problem-solving:
+Successfully tackled challenges in ensuring password complexity.
+Demonstrated ability to break down complex problems into manageable tasks.
+Exhibited perseverance and resilience in finding solutions amid setbacks.
+
+Project management:
+Effectively managed project timeline and prioritized tasks.
+Balanced project commitments with other responsibilities.
+Adapted to changes and adjusted strategies as necessary to stay on track.
